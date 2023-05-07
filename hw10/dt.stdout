@@ -1,0 +1,18 @@
+
+-------------------- Trial 0  --------------------
+
+Trial 0 Training cc.mallet.classify.BalancedWinnowTrainer@22927a81 with 2700 instances
+Trial 0 Training cc.mallet.classify.BalancedWinnowTrainer@22927a81 finished
+Trial 0 Trainer cc.mallet.classify.BalancedWinnowTrainer@22927a81 training data accuracy= 0.9703703703703703
+Trial 0 Trainer cc.mallet.classify.BalancedWinnowTrainer@22927a81 Test Data Confusion Matrix
+Confusion Matrix, row=true, column=predicted  accuracy=0.8666666666666667
+      label   0   1   2  |total
+  0    guns  80   2   8  |90
+  1 mideast   2  91   8  |101
+  2    misc  10  10  89  |109
+
+Trial 0 Trainer cc.mallet.classify.BalancedWinnowTrainer@22927a81 test data accuracy= 0.8666666666666667
+
+cc.mallet.classify.BalancedWinnowTrainer@22927a81
+Summary. train accuracy mean = 0.9703703703703703 stddev = 0.0 stderr = 0.0
+Summary. test accuracy mean = 0.8666666666666667 stddev = 0.0 stderr = 0.0

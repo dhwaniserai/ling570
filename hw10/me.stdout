@@ -1,0 +1,225 @@
+
+-------------------- Trial 0  --------------------
+
+Trial 0 Training MaxEntTrainer,gaussianPriorVariance=1.0 with 1800 instances
+Trial 0 Training MaxEntTrainer,gaussianPriorVariance=1.0 finished
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0
+ Raw Testing Data
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77324 talk.politics.mideast talk.politics.mideast:0.9906424127580516 talk.politics.misc:0.009357587241948413 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77325 talk.politics.mideast talk.politics.mideast:0.9988200430500602 talk.politics.misc:0.0011799569499396619 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77326 talk.politics.mideast talk.politics.mideast:0.9994704145478195 talk.politics.misc:5.29585452180427E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77327 talk.politics.mideast talk.politics.mideast:0.9993437061088014 talk.politics.misc:6.562938911985077E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77328 talk.politics.mideast talk.politics.mideast:0.9997128953957389 talk.politics.misc:2.8710460426107303E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77329 talk.politics.mideast talk.politics.mideast:0.9992577861084834 talk.politics.misc:7.422138915165736E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77330 talk.politics.mideast talk.politics.mideast:0.9648525115437936 talk.politics.misc:0.035147488456206334 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77331 talk.politics.mideast talk.politics.mideast:0.9968497195675913 talk.politics.misc:0.0031502804324086177 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77332 talk.politics.mideast talk.politics.mideast:0.9991143849573302 talk.politics.misc:8.856150426698471E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77333 talk.politics.mideast talk.politics.mideast:0.9997947257558245 talk.politics.misc:2.0527424417563213E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77334 talk.politics.mideast talk.politics.mideast:0.9995106991636982 talk.politics.misc:4.893008363018979E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77335 talk.politics.mideast talk.politics.mideast:0.9998301019958437 talk.politics.misc:1.6989800415628565E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77336 talk.politics.mideast talk.politics.mideast:0.9065099451955838 talk.politics.misc:0.0934900548044161 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77337 talk.politics.mideast talk.politics.mideast:0.9997901789803457 talk.politics.misc:2.0982101965423143E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77338 talk.politics.mideast talk.politics.mideast:0.9993839746697771 talk.politics.misc:6.160253302229657E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77339 talk.politics.mideast talk.politics.mideast:0.9996226030489977 talk.politics.misc:3.7739695100233456E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77340 talk.politics.mideast talk.politics.mideast:0.9924847043786629 talk.politics.misc:0.007515295621337062 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77341 talk.politics.mideast talk.politics.mideast:0.992893892112655 talk.politics.misc:0.007106107887344965 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77342 talk.politics.mideast talk.politics.mideast:0.9999619809990105 talk.politics.misc:3.8019000989627965E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77343 talk.politics.mideast talk.politics.mideast:0.9940194956891515 talk.politics.misc:0.0059805043108485815 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77344 talk.politics.mideast talk.politics.mideast:0.9999042421475384 talk.politics.misc:9.575785246152373E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77345 talk.politics.mideast talk.politics.mideast:0.9870375841816668 talk.politics.misc:0.012962415818333309 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77346 talk.politics.mideast talk.politics.mideast:0.9961591394664561 talk.politics.misc:0.0038408605335438664 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77347 talk.politics.mideast talk.politics.mideast:0.999533000397895 talk.politics.misc:4.6699960210482114E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77348 talk.politics.mideast talk.politics.mideast:0.9999857459851494 talk.politics.misc:1.4254014850543307E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77349 talk.politics.mideast talk.politics.mideast:0.9997368036752866 talk.politics.misc:2.631963247133774E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77350 talk.politics.mideast talk.politics.mideast:0.9998842545138699 talk.politics.misc:1.1574548613005752E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77351 talk.politics.mideast talk.politics.mideast:0.9998254043333943 talk.politics.misc:1.745956666056347E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77352 talk.politics.mideast talk.politics.mideast:0.9999445058830095 talk.politics.misc:5.549411699045713E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77353 talk.politics.mideast talk.politics.mideast:0.9957878184836089 talk.politics.misc:0.004212181516391014 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77354 talk.politics.mideast talk.politics.mideast:0.9951797433024518 talk.politics.misc:0.004820256697548119 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77355 talk.politics.mideast talk.politics.mideast:0.9754610247961076 talk.politics.misc:0.02453897520389241 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77356 talk.politics.mideast talk.politics.mideast:0.9820272385786039 talk.politics.misc:0.017972761421396265 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77357 talk.politics.mideast talk.politics.mideast:0.9978207466180207 talk.politics.misc:0.002179253381979242 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77358 talk.politics.mideast talk.politics.mideast:0.9993200546623665 talk.politics.misc:6.79945337633482E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77359 talk.politics.mideast talk.politics.mideast:0.9968127495094008 talk.politics.misc:0.0031872504905991433 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77360 talk.politics.mideast talk.politics.mideast:0.9999670015126536 talk.politics.misc:3.299848734634513E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77361 talk.politics.mideast talk.politics.mideast:0.9993506276516594 talk.politics.misc:6.493723483405825E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77362 talk.politics.mideast talk.politics.mideast:0.9997685652337258 talk.politics.misc:2.31434766274046E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77363 talk.politics.mideast talk.politics.mideast:0.9994057624376768 talk.politics.misc:5.942375623234042E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77364 talk.politics.mideast talk.politics.mideast:0.999967200757509 talk.politics.misc:3.279924249094086E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77365 talk.politics.mideast talk.politics.mideast:0.9993948728324387 talk.politics.misc:6.051271675612626E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77366 talk.politics.mideast talk.politics.mideast:0.9998475830869401 talk.politics.misc:1.5241691305992975E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77367 talk.politics.mideast talk.politics.mideast:0.9999536842135551 talk.politics.misc:4.631578644486271E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77368 talk.politics.mideast talk.politics.mideast:0.5495175992379796 talk.politics.misc:0.45048240076202045 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77369 talk.politics.mideast talk.politics.mideast:0.9998928352449693 talk.politics.misc:1.0716475503059666E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77370 talk.politics.mideast talk.politics.mideast:0.999939487379025 talk.politics.misc:6.051262097496145E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77371 talk.politics.mideast talk.politics.mideast:0.9991355961271979 talk.politics.misc:8.644038728020218E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77372 talk.politics.mideast talk.politics.mideast:0.99678516067676 talk.politics.misc:0.003214839323240041 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77373 talk.politics.mideast talk.politics.mideast:0.9987333321179749 talk.politics.misc:0.0012666678820251519 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77374 talk.politics.mideast talk.politics.mideast:0.9995369079111918 talk.politics.misc:4.6309208880823807E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77375 talk.politics.mideast talk.politics.mideast:0.9975295494906553 talk.politics.misc:0.0024704505093446336 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77376 talk.politics.mideast talk.politics.mideast:0.9691967388628316 talk.politics.misc:0.0308032611371684 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77377 talk.politics.mideast talk.politics.mideast:0.9987444420954902 talk.politics.misc:0.0012555579045098121 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77378 talk.politics.mideast talk.politics.mideast:0.9998786016258139 talk.politics.misc:1.2139837418609679E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77379 talk.politics.mideast talk.politics.mideast:0.999843211481792 talk.politics.misc:1.5678851820795045E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77380 talk.politics.mideast talk.politics.mideast:0.9995230068261679 talk.politics.misc:4.7699317383199295E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77381 talk.politics.mideast talk.politics.mideast:0.9999685674471964 talk.politics.misc:3.1432552803597155E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77382 talk.politics.mideast talk.politics.mideast:0.9999931757589174 talk.politics.misc:6.824241082594143E-6 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77383 talk.politics.mideast talk.politics.mideast:0.9998819396344716 talk.politics.misc:1.1806036552852187E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77384 talk.politics.mideast talk.politics.mideast:0.9996763164169877 talk.politics.misc:3.236835830123116E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77385 talk.politics.mideast talk.politics.mideast:0.9980865807781825 talk.politics.misc:0.0019134192218175567 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77386 talk.politics.mideast talk.politics.mideast:0.9998571935348746 talk.politics.misc:1.4280646512556986E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77387 talk.politics.mideast talk.politics.mideast:0.9999683037350457 talk.politics.misc:3.169626495427917E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77388 talk.politics.mideast talk.politics.mideast:0.9998502806418753 talk.politics.misc:1.4971935812458775E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77389 talk.politics.mideast talk.politics.mideast:0.999734233320953 talk.politics.misc:2.657666790469154E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77390 talk.politics.mideast talk.politics.mideast:0.9991260286468786 talk.politics.misc:8.739713531214421E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77391 talk.politics.mideast talk.politics.mideast:0.9968651571491869 talk.politics.misc:0.0031348428508131366 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77392 talk.politics.mideast talk.politics.mideast:0.9978924980684379 talk.politics.misc:0.0021075019315620045 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77393 talk.politics.mideast talk.politics.mideast:0.9998771534620802 talk.politics.misc:1.228465379197953E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77394 talk.politics.mideast talk.politics.mideast:0.9998981769906832 talk.politics.misc:1.0182300931677282E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77395 talk.politics.mideast talk.politics.mideast:0.999525438313654 talk.politics.misc:4.745616863460125E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77396 talk.politics.mideast talk.politics.mideast:0.9980619808872427 talk.politics.misc:0.001938019112757193 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77397 talk.politics.mideast talk.politics.mideast:0.99991985239542 talk.politics.misc:8.014760457998967E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77398 talk.politics.mideast talk.politics.mideast:0.9956626566010982 talk.politics.misc:0.004337343398901667 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77399 talk.politics.mideast talk.politics.mideast:0.9981255687861298 talk.politics.misc:0.0018744312138702685 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77400 talk.politics.mideast talk.politics.mideast:0.9971619826178754 talk.politics.misc:0.0028380173821245945 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77401 talk.politics.mideast talk.politics.mideast:0.999380400900146 talk.politics.misc:6.195990998539323E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77803 talk.politics.mideast talk.politics.mideast:0.9991635507507217 talk.politics.misc:8.364492492782098E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77804 talk.politics.mideast talk.politics.mideast:0.9999403774142666 talk.politics.misc:5.962258573348044E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77805 talk.politics.mideast talk.politics.mideast:0.9985487647358301 talk.politics.misc:0.00145123526416995 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77806 talk.politics.mideast talk.politics.mideast:0.9906906974819633 talk.politics.misc:0.009309302518036749 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77807 talk.politics.mideast talk.politics.mideast:0.9997252732738917 talk.politics.misc:2.7472672610843844E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77808 talk.politics.mideast talk.politics.mideast:0.9998892541763801 talk.politics.misc:1.1074582361994385E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77809 talk.politics.mideast talk.politics.mideast:0.9999848745476871 talk.politics.misc:1.512545231278059E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77810 talk.politics.mideast talk.politics.mideast:0.9989217200098447 talk.politics.misc:0.0010782799901553487 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77811 talk.politics.mideast talk.politics.mideast:0.8876443669640038 talk.politics.misc:0.1123556330359961 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77812 talk.politics.mideast talk.politics.mideast:0.9982849756054708 talk.politics.misc:0.0017150243945291217 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77813 talk.politics.mideast talk.politics.mideast:0.9947562192515003 talk.politics.misc:0.005243780748499767 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77814 talk.politics.mideast talk.politics.mideast:0.9709336054529601 talk.politics.misc:0.029066394547039912 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77815 talk.politics.mideast talk.politics.mideast:0.9724596118492697 talk.politics.misc:0.02754038815073044 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77816 talk.politics.mideast talk.politics.mideast:0.9948337319718598 talk.politics.misc:0.005166268028140205 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77817 talk.politics.mideast talk.politics.mideast:0.9996277418422439 talk.politics.misc:3.722581577560521E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77818 talk.politics.mideast talk.politics.mideast:0.9945465269953978 talk.politics.misc:0.005453473004602287 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77819 talk.politics.mideast talk.politics.mideast:0.991594099119906 talk.politics.misc:0.008405900880093983 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77820 talk.politics.mideast talk.politics.mideast:0.9994382426236301 talk.politics.misc:5.617573763698284E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77821 talk.politics.mideast talk.politics.mideast:0.9921299667382341 talk.politics.misc:0.007870033261765861 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77822 talk.politics.mideast talk.politics.mideast:0.9971679304680983 talk.politics.misc:0.0028320695319017414 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77823 talk.politics.mideast talk.politics.mideast:0.9979014559663418 talk.politics.misc:0.0020985440336582987 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.mideast/77850 talk.politics.mideast talk.politics.mideast:0.9994274261021553 talk.politics.misc:5.725738978448432E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179017 talk.politics.misc talk.politics.misc:0.9819273914373474 talk.politics.mideast:0.018072608562652682 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179018 talk.politics.misc talk.politics.misc:0.9996884173546521 talk.politics.mideast:3.115826453479728E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179019 talk.politics.misc talk.politics.misc:0.9987994620125517 talk.politics.mideast:0.0012005379874483705 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179020 talk.politics.misc talk.politics.misc:0.9998137863035019 talk.politics.mideast:1.8621369649816553E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179021 talk.politics.misc talk.politics.misc:0.9952026374755357 talk.politics.mideast:0.004797362524464337 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179022 talk.politics.misc talk.politics.misc:0.999834912478167 talk.politics.mideast:1.6508752183290944E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179023 talk.politics.misc talk.politics.misc:0.9946529483972609 talk.politics.mideast:0.005347051602738958 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179024 talk.politics.misc talk.politics.misc:0.9998004381140018 talk.politics.mideast:1.9956188599812305E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179025 talk.politics.misc talk.politics.misc:0.9964239377851916 talk.politics.mideast:0.0035760622148085382 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179026 talk.politics.misc talk.politics.misc:0.9970215616257027 talk.politics.mideast:0.0029784383742973855 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179027 talk.politics.misc talk.politics.misc:0.986253634895905 talk.politics.mideast:0.01374636510409488 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179028 talk.politics.misc talk.politics.misc:0.9859710231847655 talk.politics.mideast:0.014028976815234469 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179029 talk.politics.misc talk.politics.misc:0.9999724459456123 talk.politics.mideast:2.755405438767644E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179030 talk.politics.misc talk.politics.misc:0.9991906551420001 talk.politics.mideast:8.093448579998199E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179031 talk.politics.misc talk.politics.misc:0.9997908702665617 talk.politics.mideast:2.0912973343839713E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179032 talk.politics.misc talk.politics.mideast:0.9757084057195946 talk.politics.misc:0.02429159428040538 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179033 talk.politics.misc talk.politics.misc:0.9998759179934747 talk.politics.mideast:1.2408200652520767E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179034 talk.politics.misc talk.politics.misc:0.9998750854881835 talk.politics.mideast:1.2491451181639951E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179035 talk.politics.misc talk.politics.misc:0.9302988847475216 talk.politics.mideast:0.0697011152524784 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179036 talk.politics.misc talk.politics.misc:0.9987651744398672 talk.politics.mideast:0.0012348255601328287 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179037 talk.politics.misc talk.politics.misc:0.9986945724273318 talk.politics.mideast:0.0013054275726682295 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179038 talk.politics.misc talk.politics.misc:0.9983903905175326 talk.politics.mideast:0.0016096094824672373 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179039 talk.politics.misc talk.politics.misc:0.9987924637187025 talk.politics.mideast:0.0012075362812976162 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179040 talk.politics.misc talk.politics.mideast:0.9940603569941907 talk.politics.misc:0.00593964300580933 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179041 talk.politics.misc talk.politics.misc:0.9976575378882795 talk.politics.mideast:0.0023424621117205846 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179042 talk.politics.misc talk.politics.misc:0.9898644778724262 talk.politics.mideast:0.010135522127573744 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179043 talk.politics.misc talk.politics.misc:0.9980468252330658 talk.politics.mideast:0.001953174766934331 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179044 talk.politics.misc talk.politics.misc:0.9972002498930558 talk.politics.mideast:0.002799750106944106 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179045 talk.politics.misc talk.politics.misc:0.9915043727704491 talk.politics.mideast:0.008495627229550915 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179046 talk.politics.misc talk.politics.misc:0.9986253938571105 talk.politics.mideast:0.0013746061428895184 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179047 talk.politics.misc talk.politics.misc:0.9771004356881855 talk.politics.mideast:0.02289956431181451 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179048 talk.politics.misc talk.politics.misc:0.9891342943880888 talk.politics.mideast:0.010865705611911181 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179049 talk.politics.misc talk.politics.misc:0.9998307139250846 talk.politics.mideast:1.6928607491549302E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179050 talk.politics.misc talk.politics.misc:0.999867087793008 talk.politics.mideast:1.3291220699186083E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179051 talk.politics.misc talk.politics.misc:0.9992694204737952 talk.politics.mideast:7.305795262048796E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179052 talk.politics.misc talk.politics.misc:0.9995739604026561 talk.politics.mideast:4.260395973438136E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179053 talk.politics.misc talk.politics.misc:0.9978671547489039 talk.politics.mideast:0.002132845251096098 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179054 talk.politics.misc talk.politics.misc:0.999607819555995 talk.politics.mideast:3.921804440049716E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179055 talk.politics.misc talk.politics.misc:0.9228033824198463 talk.politics.mideast:0.0771966175801538 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179056 talk.politics.misc talk.politics.misc:0.9960706264300851 talk.politics.mideast:0.003929373569914825 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179057 talk.politics.misc talk.politics.mideast:0.9983986629275696 talk.politics.misc:0.0016013370724304449 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179058 talk.politics.misc talk.politics.misc:0.9999147528315767 talk.politics.mideast:8.52471684232365E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179059 talk.politics.misc talk.politics.misc:0.9997443246848444 talk.politics.mideast:2.556753151555717E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179060 talk.politics.misc talk.politics.misc:0.994772894881378 talk.politics.mideast:0.005227105118622041 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179061 talk.politics.misc talk.politics.mideast:0.9856288908718459 talk.politics.misc:0.014371109128154048 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179062 talk.politics.misc talk.politics.misc:0.9978698497176869 talk.politics.mideast:0.002130150282313151 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179063 talk.politics.misc talk.politics.misc:0.9967638842157404 talk.politics.mideast:0.003236115784259605 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179064 talk.politics.misc talk.politics.misc:0.9958466133814557 talk.politics.mideast:0.004153386618544259 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179065 talk.politics.misc talk.politics.misc:0.9962230276547808 talk.politics.mideast:0.0037769723452192646 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179066 talk.politics.misc talk.politics.misc:0.9966350088107296 talk.politics.mideast:0.003364991189270346 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179067 talk.politics.misc talk.politics.misc:0.9961969655908781 talk.politics.mideast:0.0038030344091220187 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179068 talk.politics.misc talk.politics.misc:0.9998704561638208 talk.politics.mideast:1.2954383617921263E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179069 talk.politics.misc talk.politics.misc:0.9952181338804745 talk.politics.mideast:0.004781866119525494 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179070 talk.politics.misc talk.politics.misc:0.9968500018119293 talk.politics.mideast:0.0031499981880706786 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179071 talk.politics.misc talk.politics.misc:0.9984267473810482 talk.politics.mideast:0.0015732526189517052 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179072 talk.politics.misc talk.politics.misc:0.9909584901768468 talk.politics.mideast:0.009041509823153188 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179073 talk.politics.misc talk.politics.misc:0.9999686676179689 talk.politics.mideast:3.133238203118244E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179074 talk.politics.misc talk.politics.misc:0.9998063674543286 talk.politics.mideast:1.9363254567136517E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179075 talk.politics.misc talk.politics.misc:0.994367853908144 talk.politics.mideast:0.005632146091856038 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179076 talk.politics.misc talk.politics.misc:0.9887652949852679 talk.politics.mideast:0.011234705014732005 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179077 talk.politics.misc talk.politics.misc:0.9992560559001658 talk.politics.mideast:7.439440998343205E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179078 talk.politics.misc talk.politics.misc:0.9958046990622016 talk.politics.mideast:0.00419530093779831 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179079 talk.politics.misc talk.politics.misc:0.999813954113486 talk.politics.mideast:1.860458865139404E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179080 talk.politics.misc talk.politics.misc:0.9957529060188988 talk.politics.mideast:0.004247093981101149 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179081 talk.politics.misc talk.politics.misc:0.9992064360543144 talk.politics.mideast:7.935639456855937E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179082 talk.politics.misc talk.politics.misc:0.9984843814550869 talk.politics.mideast:0.0015156185449131255 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179083 talk.politics.misc talk.politics.misc:0.9925310736621645 talk.politics.mideast:0.007468926337835592 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179084 talk.politics.misc talk.politics.misc:0.9966012665864025 talk.politics.mideast:0.003398733413597458 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179085 talk.politics.misc talk.politics.misc:0.9954874674482025 talk.politics.mideast:0.004512532551797426 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179086 talk.politics.misc talk.politics.misc:0.9991736547802859 talk.politics.mideast:8.263452197142105E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179087 talk.politics.misc talk.politics.misc:0.9966374851409707 talk.politics.mideast:0.0033625148590292688 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179088 talk.politics.misc talk.politics.misc:0.9997800803631431 talk.politics.mideast:2.199196368567361E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179089 talk.politics.misc talk.politics.misc:0.9753170258018511 talk.politics.mideast:0.02468297419814889 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179090 talk.politics.misc talk.politics.misc:0.9956252724706018 talk.politics.mideast:0.004374727529398153 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179091 talk.politics.misc talk.politics.misc:0.9911162937627072 talk.politics.mideast:0.008883706237292937 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179092 talk.politics.misc talk.politics.misc:0.999349488636283 talk.politics.mideast:6.50511363716871E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179093 talk.politics.misc talk.politics.misc:0.9970099470979611 talk.politics.mideast:0.002990052902038812 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179094 talk.politics.misc talk.politics.misc:0.9991597791861602 talk.politics.mideast:8.402208138397031E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179095 talk.politics.misc talk.politics.misc:0.9695877319251054 talk.politics.mideast:0.030412268074894656 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179096 talk.politics.misc talk.politics.misc:0.9946995037555971 talk.politics.mideast:0.005300496244402781 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179097 talk.politics.misc talk.politics.misc:0.9976868693117148 talk.politics.mideast:0.00231313068828512 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179098 talk.politics.misc talk.politics.misc:0.9946384616697855 talk.politics.mideast:0.005361538330214374 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179099 talk.politics.misc talk.politics.misc:0.9986413222328093 talk.politics.mideast:0.0013586777671905697 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179100 talk.politics.misc talk.politics.misc:0.9997765573176147 talk.politics.mideast:2.2344268238538325E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179101 talk.politics.misc talk.politics.misc:0.9994147303837891 talk.politics.mideast:5.852696162107567E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179102 talk.politics.misc talk.politics.misc:0.9987586363775858 talk.politics.mideast:0.0012413636224141804 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179103 talk.politics.misc talk.politics.misc:0.9987506690050866 talk.politics.mideast:0.001249330994913443 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179104 talk.politics.misc talk.politics.misc:0.9982647094841264 talk.politics.mideast:0.0017352905158736815 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179105 talk.politics.misc talk.politics.misc:0.9927137539970066 talk.politics.mideast:0.00728624600299341 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179106 talk.politics.misc talk.politics.misc:0.9994623222227954 talk.politics.mideast:5.376777772046209E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179107 talk.politics.misc talk.politics.misc:0.9998984120722444 talk.politics.mideast:1.015879277557408E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179108 talk.politics.misc talk.politics.misc:0.9994489444236004 talk.politics.mideast:5.510555763996438E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179109 talk.politics.misc talk.politics.misc:0.9998907443659919 talk.politics.mideast:1.0925563400798981E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179110 talk.politics.misc talk.politics.misc:0.9992392753122833 talk.politics.mideast:7.607246877166564E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179111 talk.politics.misc talk.politics.misc:0.9994110564137809 talk.politics.mideast:5.889435862190455E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179112 talk.politics.misc talk.politics.misc:0.9996048578463783 talk.politics.mideast:3.9514215362156763E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179113 talk.politics.misc talk.politics.misc:0.9999664784239006 talk.politics.mideast:3.3521576099426186E-5 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179114 talk.politics.misc talk.politics.misc:0.9998341948592294 talk.politics.mideast:1.6580514077050082E-4 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179115 talk.politics.misc talk.politics.misc:0.9911803610235409 talk.politics.mideast:0.008819638976459031 
+/home2/dserai/dropbox/22-23/570/hw10/20_newsgroups/talk.politics.misc/179116 talk.politics.misc talk.politics.misc:0.9982935925759265 talk.politics.mideast:0.0017064074240733939 
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 Training Data Confusion Matrix
+Confusion Matrix, row=true, column=predicted  accuracy=0.9738888888888889
+                    label   0   1  |total
+  0 talk.politics.mideast 888  12  |900
+  1    talk.politics.misc  35 865  |900
+
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 training data accuracy= 0.9738888888888889
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 Test Data Confusion Matrix
+Confusion Matrix, row=true, column=predicted  accuracy=0.98
+                    label   0   1  |total
+  0 talk.politics.mideast 100   .  |100
+  1    talk.politics.misc   4  96  |100
+
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data accuracy= 0.98
+
+MaxEntTrainer,gaussianPriorVariance=1.0
+Summary. train accuracy mean = 0.9738888888888889 stddev = 0.0 stderr = 0.0
+Summary. test accuracy mean = 0.98 stddev = 0.0 stderr = 0.0
