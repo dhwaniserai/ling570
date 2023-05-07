@@ -1,3 +1,3 @@
 # ling570
 LING 570: Shallow Processing Techniques for Natural Language Processing. 
-https://www.compling.uw.edu/academic-experience/courses/descriptions/#570
+https://compling.uw.edu/academic-experience/courses/course-descriptions/#570
